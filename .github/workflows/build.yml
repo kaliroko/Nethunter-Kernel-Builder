@@ -1,4 +1,4 @@
-  pname: "Build kernels"
+  name: "Build kernels"
 
 env:
   CONFIGURATION: "repos.json"
