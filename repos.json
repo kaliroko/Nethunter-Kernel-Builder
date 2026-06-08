@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
       "name": "linux-kernel",
-      "repo": "https://github.com/yanhuo26/android_kernel_xiaomi_sdm845.git",
+      "repo": "https://github.com/kaliroko/kernel-kali-nethunter-cd12m.git",
       "branch": "udc",
       "device": "sdm845"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
