@@ -3,7 +3,7 @@
       "name": "linux-kernel",
       "repo": "https://github.com/kaliroko/kernel-kali-nethunter-cd12m.git",
       "branch": "udc",
-      "device": "sdm845"
+      "device": "cd12m"
     },
     "withKernelSU": true,
     "toolchains": [
